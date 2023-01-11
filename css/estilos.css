@@ -48,3 +48,16 @@ body {
 #container h1 {
    font-size: 20px; 
 }
+
+#footer {
+    display: flex;
+    background-color: cadetblue;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+}
+
+#textofooter {
+    color: white;
+    font-size: 15px;
+}
