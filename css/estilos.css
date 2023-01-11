@@ -1,23 +1,37 @@
 body {
-    color: blue;
+    color: red;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: black;
 }
 
 #cabecera {
-    background: purple;
+    background: gray;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0 0.5em;
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+#logo_dragon {
+    height: 50px;
+    width: 50px;
+}
+
+#titulo {
+    margin-left: 20px;
+    font-size: 20px;
 }
 
 #cabecera #tagline {
-    padding: 0 0 0 1em;
+    padding: 0 0 0 0.5em;
     font-weight: normal;
     font-size: 0.8em;
 }
@@ -27,6 +41,7 @@ body {
     padding: 1em;
     text-align: left;
     border: 1px solid #DDD;
+    background-color: white;
     margin: 0 auto;
 }
 
