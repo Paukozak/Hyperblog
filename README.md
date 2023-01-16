@@ -7,5 +7,6 @@ Locura extrema
 - Mucho texto
 - LOCURA
 - Creado por la linda de pau
+- incluye locura
 
 Y nada eso, los quiero **uwu** chau
