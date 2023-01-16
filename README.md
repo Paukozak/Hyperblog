@@ -8,5 +8,6 @@ Locura extrema
 - LOCURA
 - Creado por la linda de pau
 - incluye locura
+- disponible para todas
 
 Y nada eso, los quiero **uwu** chau
