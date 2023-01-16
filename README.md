@@ -1,4 +1,4 @@
-## Hyperblog :fa-heart:
+## Hyperblog <3
 Locura extrema
 > Messi traeme la copa
 
