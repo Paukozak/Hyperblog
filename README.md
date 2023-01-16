@@ -6,5 +6,6 @@ Locura extrema
 - [Una foto](https://imgur.com/5F82ewG "Una foto")
 - Mucho texto
 - LOCURA
+- Creado por la linda de pau
 
 Y nada eso, los quiero **uwu** chau
